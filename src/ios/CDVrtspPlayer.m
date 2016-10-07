@@ -7,6 +7,7 @@
 - (void)showStreamPlayer:(NSString*)url
 {
     self.hasPendingOperation = YES;
+	printf("hellortsp");
 }
 
 - (void)playRTSP:(CDVInvokedUrlCommand*) command
