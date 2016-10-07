@@ -17,3 +17,6 @@ cordova build ios
 cordova run ios
  
 cordova plugin rm com.madtatu.rtspPlayer
+
+
+https://drive.google.com/file/d/0B12Qam5rUXz7LWg1Z2pmNGNrOVE/view?usp=sharing
